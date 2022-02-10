@@ -1,4 +1,3 @@
-/*
 package com.br.letscode.moviesbattle.moviesbattle.config;
 
 import com.br.letscode.moviesbattle.moviesbattle.entity.Player;
@@ -29,4 +28,4 @@ public class PlayerDetailService implements UserDetailsService {
     }
 
 }
-*/
+
